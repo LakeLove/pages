@@ -37,7 +37,7 @@ However, most programmers use a Programming Environment that makes it very easy 
 
 When you write a Python program, you are really just writing some text.
 That text needs to be valid Python text, following all of it syntax rules.
-But that means its not that different from an essay you might write in english.
+But that means it's not that different from an essay you might write in english.
 
-> On the left, a picture of Python source code file  
+> On the left, a picture of Python source code file.
 > On the right, an essay on the Natural History of Corallines, whatever that is.
